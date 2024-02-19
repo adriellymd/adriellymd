@@ -12,7 +12,7 @@
   Olá, eu sou Adrielly, estudante de Estatística e futura Cientista de Dados.
   <br>
   <br>
-  💻 Eu sei mexer com Arduino, CSS, HTML, MySQL, Python e R (a linguagem).
+  💻 Eu sei mexer com Arduino, CSS, HTML, MySQL, Python e R.
   <br>
   💬 Fique à vontade para me perguntar sobre qualquer coisa.
   <br>
