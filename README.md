@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/" title="Perfil do LinkedIn"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+    <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h5>
 <br>
 <p align="center">
