@@ -33,4 +33,3 @@
 </p>
 <hr>
 
-![snake gif](https://github.com/httpadrfis/httpadrfis/blob/output/github-contribution-grid-snake.gif)
