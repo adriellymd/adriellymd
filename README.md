@@ -5,8 +5,9 @@
 </h1>
 
 <h5 align="center">
-    <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h5>
+
 <br>
 <p align="center">
   Olá, eu sou Adrielly, estudante de Estatística e futura Cientista de Dados.
