@@ -16,7 +16,7 @@
   <br>
   💬 Fique à vontade para me perguntar sobre qualquer coisa.
   <br>
-  📫 Como me contatar: [adrielly.medeiros@email.com](mailto:adrielly.medeiros@email.com)
+  📫 Como me contatar: adriellymedeirosnunes1@gmail.com
 </p>
 
 <hr>
