@@ -32,3 +32,5 @@
   <code><img title="R" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
 </p>
 <hr>
+
+![snake gif](https://github.com/httpadrfis/httpadrfis/blob/output/github-contribution-grid-snake.gif)
