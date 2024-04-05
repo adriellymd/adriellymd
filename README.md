@@ -16,8 +16,13 @@
 
 <div align="center"> 
   <a href = "mailto:adriellymedeirosnunes1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/adrielly-medeiros-260b0b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://judge.beecrowd.com/pt/users/statistics/982046" target="_blank">
+  <img src="https://img.shields.io/badge/-Beecrowd-purple?style=for-the-badge" alt="Beecrowd" style="display:inline-block; padding:10px; color:yellow; background-color:purple; border-radius:4px;">
+</a>
+
+
+
 </div>
 
 <hr>
